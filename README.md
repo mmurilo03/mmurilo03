@@ -1,19 +1,11 @@
-### Hi there 👋
 # Olá eu sou Murilo de Oliveira Ferreira 👋
+[![github](https://img.shields.io/badge/-Github-000?logo=Github)](https://github.com/mmurilo03)
 
+## Um pouco sobre mim
+* 🖥️ Desenvolvimento web com HTML, CSS e Javascript
+* 📖 Fluência em inglês
+* 📚 Concluido Técnico Integrado em Informática - IFPB Cajazeiras
+* 🏫 Cursando Análise e Desenvolvimento de Sistemas - IFPB Cajazeiras
 
-
-<!--
-**mmurilo03/mmurilo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interese
+* 🖥️ Desenvolver páginas web com HTML, CSS e Javascript
